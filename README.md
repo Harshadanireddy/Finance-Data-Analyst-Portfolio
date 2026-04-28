@@ -1,17 +1,19 @@
 # HarshaVardhan Reddy — Data Analyst
 
 ## About Me
-Finance Data Analyst with 4 years of experience in 
-Enterprise Finance and Revenue Operations.
-Specialized in large scale data validation, 
-subscription lifecycle management and MIS reporting.
+Data Analyst with 4 years of experience and strong
+finance domain background. Skilled in SQL, Snowflake
+and large scale data validation. Open to data roles
+across fintech, e-commerce and SaaS industries.
+Specialized in subscription lifecycle management,
+revenue operations and MIS reporting.
 Bravo Award recipient for outstanding performance.
 Based in Hyderabad, India.
 
 ## Technical Skills
 - Database & Cloud: SQL | SAP HANA | Snowflake
 - Tools: Salesforce | Jira | Excel
-- Domain: Finance | Revenue Operations | 
+- Domain: Finance | Revenue Operations |
   Subscription Lifecycle | Audit & Compliance | MIS Reporting
 
 ## Repository Contents
@@ -29,5 +31,5 @@ Based in Hyderabad, India.
 
 ## Currently Learning
 - Snowflake Advanced Features
-- SnowPro Core Certification (Target: 2026)
+- SnowPro Core Certification (Target: 2026 Dec)
 - Power BI
